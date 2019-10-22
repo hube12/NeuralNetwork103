@@ -5,6 +5,6 @@ Make sure to go in Edit/Notebook Settings and select python3 and GPU
 
 RBM : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hube12/NeuralNetwork103/blob/master/Notebook/RBM.ipynb)
 
-StyleGan : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/hube12/NeuralNetwork103/blob/master/Notebook/StyleGAN.ipynb)
+StyleGan : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hube12/NeuralNetwork103/blob/master/Notebook/StyleGAN.ipynb)
 
-WGAN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/hube12/NeuralNetwork103/blob/master/Notebook/WGAN.ipynb)
+WGAN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hube12/NeuralNetwork103/blob/master/Notebook/WGAN.ipynb)
